@@ -37,7 +37,3 @@ body {
     gap: 20px 10px;
 }
 
-.gallery::after {
-    content: "";
-    width: 350px;
-}
